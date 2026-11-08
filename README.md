@@ -2,6 +2,27 @@
 
 可复用的摄影设计工作流与 Codex 技能。
 
+## 技能列表
+
+| 技能 | 适用版本 |
+| --- | --- |
+| [标准暖纸实景拼贴请柬](skills/photo-to-standard-paper-invitation/SKILL.md) | 淡黄米白纸面、蓝灰笔触、朱红喜字、深棕正文 |
+| [红纸金漆婚礼请柬](skills/photo-to-red-gold-invitation/SKILL.md) | 朱红纸面、金漆与金粉喜字、浅金文字 |
+
+## 标准暖纸实景拼贴请柬
+
+[photo-to-standard-paper-invitation](skills/photo-to-standard-paper-invitation/SKILL.md) 对应暖纸标准底色版本，保留真实摄影、撕纸交界、独立图层和可编辑文字。支持从照片建立无文字基础稿或完整请柬，也支持接续用户保存的 PPT。默认不改成红底或金属材质。
+
+将该技能文件夹复制到个人技能目录后使用：
+
+```text
+用 $photo-to-standard-paper-invitation 制作标准暖纸底的实景拼贴请柬，
+保留真实人像、蓝灰笔触和可编辑文字，另存新版本。
+```
+
+本技能与红纸金漆版本分别安装，均只包含通用说明、匿名示例和通用代码，不包含用户照片或个人资料。
+
+
 ## 红纸金漆婚礼请柬
 
 [photo-to-red-gold-invitation](skills/photo-to-red-gold-invitation/SKILL.md) 将真实照片制作成实景撕纸拼贴请柬，并支持接续用户自行修改过的 PowerPoint，另存红纸纹理、金漆和金粉版本。

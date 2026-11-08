@@ -1,0 +1,4 @@
+interface:
+  display_name: "标准暖纸实景拼贴请柬"
+  short_description: "将照片制作成暖纸底、蓝灰笔触、保留真实人像与可编辑文字的请柬"
+  default_prompt: "用 $photo-to-standard-paper-invitation 制作标准暖纸底的实景拼贴婚礼请柬；已有 PPT 时沿用原稿，保留真实人像、独立图层与可编辑文字，另存新版本。"
