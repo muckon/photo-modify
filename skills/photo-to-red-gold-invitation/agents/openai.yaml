@@ -1,0 +1,4 @@
+interface:
+  display_name: "红纸金漆婚礼请柬"
+  short_description: "将原始照片做成保留真实人像、文字可编辑的实景拼贴红金请柬"
+  default_prompt: "用 $photo-to-red-gold-invitation 将这张照片制作成实景拼贴婚礼请柬；如已有 PPT，就沿用原稿，另存红纸与金漆金粉新版本。"
